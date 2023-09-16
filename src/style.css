@@ -24,11 +24,13 @@ nav {
 
 nav input{
     background: transparent;
-    padding:.7rem 5rem;
+    padding:.9rem 1rem;
+    border-radius: .5rem;
     border: none;
     position: relative;
     margin-top: .4rem;
-    margin-left: -2rem;
+    margin-left: -7rem;
+    width:32.8125rem;
     border: 1px solid white;
     color: white;
 }
@@ -50,8 +52,8 @@ nav button {
     border: none;
     padding: .6rem;
     position: absolute;
-    left: 51rem;
-    top: 1.5rem;
+    left: 56rem;
+    top: 1.6rem;
     cursor: pointer;
 }
 
@@ -66,6 +68,7 @@ nav button {
 
 .logo{
     cursor: pointer;
+    margin-left: 2rem;
 }
 
 .menu p{
@@ -352,37 +355,37 @@ main {
     }
 
     .favicon3{
-        top: 84rem;
+        top: 89rem;
         left: 15rem;
     }
 
     .favicon4{
-        top: 84rem;
+        top: 89rem;
         left: 36rem;
     }
     
     .favicon5{
-        top:84rem;
+        top:89rem;
         left: 57rem;
     }
 
     .favicon6{
-        top:122rem;
+        top:132rem;
         left:15rem ;
     }
 
     .favicon7 {
-        top: 122rem;
+        top: 132rem;
         left: 36rem;
     }
 
     .favicon8{
-        top: 122rem;
+        top: 132rem;
         left: 57rem;
     }
 
     .favicon9{
-        top: 161rem;
+        top: 176rem;
         left:15rem ;
     }
 
