@@ -1,7 +1,7 @@
 import Col from "./Col";
-import image1 from "../poster-cards/image1.jpg";
-import image2 from "../poster-cards/image2.jpg";
-import image3 from "../poster-cards/image3.jpg";
+import image1 from "../poster-cards/meg2.jpg";
+import image2 from "../poster-cards/fastx.jpg";
+import image3 from "../poster-cards/nun.jpg";
 import ImbdLogo from "../images/IMDB - Copy.svg";
 import Rotten from "../images/Rotten Tomatoes - Copy.svg";
 const Row = () => {
