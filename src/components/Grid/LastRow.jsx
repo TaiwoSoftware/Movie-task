@@ -14,6 +14,7 @@ const LastRow = () => {
         tomatoes={Rotten}
         type="Horror"
         adventure="changing"
+        release="2023-09-14"
       />
       <div className="fix"></div>
     </div>

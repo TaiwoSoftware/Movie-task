@@ -16,6 +16,7 @@ const Row3 = () => {
         tomatoes={Rotten}
         type="Adventure"
         adventure="changing"
+        release="2023-06-14"
       />
       <Col
         src={image2}
@@ -26,6 +27,7 @@ const Row3 = () => {
         tomatoes={Rotten}
         type="Fantasy"
         adventure="changing"
+        release="2023-08-17"
       />
       <Col
         src={image3}
@@ -36,6 +38,7 @@ const Row3 = () => {
         tomatoes={Rotten}
         type="Drama"
         adventure="changing"
+        release="2023-07-03"
       />
       <div className="fix"></div>
     </div>

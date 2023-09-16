@@ -225,49 +225,49 @@ main {
 
 .favicon3 {
     position: absolute;
-    top: 91rem;
+    top: 93.5rem;
     left: 22rem;
     cursor: pointer;
 }
 
 .favicon4{
     position: absolute;
-    top: 91rem;
+    top: 93.5rem;
     left: 46.5rem;
     cursor: pointer;
 }
 
 .favicon5 {
     position: absolute;
-    top: 91rem;
+    top: 93.5rem;
     left: 71.5rem;
     cursor: pointer;
 }
 
 .favicon6 {
     position: absolute;
-    top: 137.5rem;
+    top: 142rem;
     left: 22rem;
     cursor: pointer;
 }
 
 .favicon7 {
     position: absolute;
-    top: 137.5rem;
+    top: 142rem;
     left: 46.5rem;
     cursor: pointer;
 }
 
 .favicon8 {
     position: absolute;
-    top: 137.5rem;
+    top: 142rem;
     left: 71.5rem;
     cursor: pointer;
 }
 
 .favicon9 {
     position: absolute;
-    top: 184rem;
+    top: 190rem;
     left: 22rem;
     cursor: pointer;
 }
@@ -320,6 +320,11 @@ main {
 .copywrite p{
     text-align: center;
     font-weight: 600;
+    color: gray;
+}
+
+.release{
+    text-align: center;
     color: gray;
 }
 

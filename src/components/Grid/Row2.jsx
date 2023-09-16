@@ -16,6 +16,7 @@ const Row2 = () => {
         logo={ImbdLogo}
         tomatoes={Rotten}
         type="Adventure"
+        release="2023-07-26"
         adventure="changing"
       />
       <Col
@@ -26,6 +27,7 @@ const Row2 = () => {
         logo={ImbdLogo}
         tomatoes={Rotten}
         type="Love"
+        release="2023-07-19"
         adventure="changing"
       />
       <Col
@@ -36,6 +38,7 @@ const Row2 = () => {
         logo={ImbdLogo}
         tomatoes={Rotten}
         type="Adventure"
+        release="2023-06-13"
         adventure="changing"
       />
       <div className="fix"></div>
